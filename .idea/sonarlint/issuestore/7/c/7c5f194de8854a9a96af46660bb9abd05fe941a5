@@ -1,4 +1,16 @@
 
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œïíûøÿÿÿÿ8Î¬ª†¾2
-L	java:S106"+Replace this use of System.out by a logger.(¶Ž­´ýÿÿÿÿ8Ö¬ª†¾2
-X	java:S125"<This block of commented-out lines of code should be removed.(ð’ØÎ8Ö¬ª†¾2
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œïíûøÿÿÿÿ8®ûä†¾2J$39fe1424-ffe8-4374-9418-173b79069a61
+r	java:S106"+Replace this use of System.out by a logger.(¶Ž­´ýÿÿÿÿ8¼ûä†¾2J$40b3b26a-22ea-45b9-9250-717845e4da42
+~	java:S125"<This block of commented-out lines of code should be removed.(ð’ØÎ8½ûä†¾2J$421726e1-503f-401d-9e54-b1d36a95f2fd
+m	java:S106"+Replace this use of System.out by a logger.(ý¬‘”8½ûä†¾2J$dfddf4fa-92ae-4a71-88e3-dd3d5e8cf013
+r	java:S106	"+Replace this use of System.out by a logger.(Ÿé—‘úÿÿÿÿ8¾ûä†¾2J$8d940f35-3a59-4299-8bc3-33d9c037d4f3
+l	java:S106
+"+Replace this use of System.out by a logger.(µÌã<8¾ûä†¾2J$4861db32-a8d3-4cbd-8d35-443bc944ae23
+r	java:S106"+Replace this use of System.out by a logger.(ÈûÝ¹ýÿÿÿÿ8¾ûä†¾2J$6fcad07c-e0e1-4d25-a0ee-4211d001f4c4
+m	java:S106"+Replace this use of System.out by a logger.(Íã–‹8¿ûä†¾2J$ae30e12f-18ff-4984-a204-0093196066d4
+m	java:S106"+Replace this use of System.out by a logger.(Â½–¨8¿ûä†¾2J$8e4ade05-1388-422d-adf8-5835a07f6084
+l	java:S106"+Replace this use of System.out by a logger.(ŸÂÕk8¿ûä†¾2J$119654db-8287-4a70-8bd0-93448398f040
+r	java:S106"+Replace this use of System.out by a logger.(‘û¶øÿÿÿÿ8¿ûä†¾2J$d3b1d8f4-6d35-40cc-a0c7-5e37e6dc7623
+r	java:S106"+Replace this use of System.out by a logger.(ñ©æìýÿÿÿÿ8Àûä†¾2J$ba4143c1-e775-4e1b-9f3c-6197d09360e5
+m	java:S106"+Replace this use of System.out by a logger.(ùÑµû8Àûä†¾2J$eb361630-9202-45f1-8212-4db289ed7f3b
+m	java:S106"+Replace this use of System.out by a logger.(ùÑµû8™…è†¾2J$f3654e21-4846-4dc0-abd2-2482213e0a12
