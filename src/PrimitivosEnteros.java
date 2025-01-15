@@ -1,4 +1,4 @@
-public class primitivos {
+public class PrimitivosEnteros {
     public static void main(String[] args) {
         byte numeroByte = 127; // maximo valor 127
         System.out.println("numeroByte = " + numeroByte);

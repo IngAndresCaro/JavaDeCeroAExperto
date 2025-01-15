@@ -1,4 +1,4 @@
-public class primitimosFloat {
+public class PrimitivosFloat {
 
     static float varFlotante;
 
