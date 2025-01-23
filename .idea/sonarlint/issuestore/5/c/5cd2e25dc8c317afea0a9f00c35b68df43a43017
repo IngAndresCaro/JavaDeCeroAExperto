@@ -1,0 +1,14 @@
+
+„
+java:S4973"<Strings and Boxed types should be compared using "equals()".(áİ’¤şÿÿÿÿ8ïĞÕ®È2J$45f930d8-972c-4ef6-8090-0a48cc12d502
+m
+java:S2201"*The return value of "concat" must be used.(÷Î¶¹8õĞÕ®È2J$9d704c00-bb14-4bf1-b47c-5466fc278d4f
+r	java:S106"+Replace this use of System.out by a logger.(ú¼·„üÿÿÿÿ8÷ĞÕ®È2J$af668f94-d2dc-4ee0-8b1b-fe502384d464
+m	java:S106
+"+Replace this use of System.out by a logger.(§—‚ó8øĞÕ®È2J$698ba7b6-f0fc-4277-a60e-d20e86f98d98
+r	java:S106"+Replace this use of System.out by a logger.(áİ’¤şÿÿÿÿ8øĞÕ®È2J$8b98a17b-efad-4d77-8bfc-d57d0ea5ec9c
+›
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(şã‘Ğüÿÿÿÿ8ùĞÕ®È2J$d79ff8e4-4ce5-4f27-9945-f6a11d4a8dfb
+r	java:S106"+Replace this use of System.out by a logger.(ú¼·„üÿÿÿÿ8úĞÕ®È2J$f51c5902-0fb7-4fce-a696-5e18ee3ee47d
+l	java:S106"+Replace this use of System.out by a logger.(ÿ—Úd8úĞÕ®È2J$0aae76b4-c83f-4cf1-b3f4-544c3e60fe35
+m	java:S106"+Replace this use of System.out by a logger.(Â£¼Œ8‘şÕ®È2J$f4197b8b-c69f-4fbf-9fd1-825a1fc0bef5

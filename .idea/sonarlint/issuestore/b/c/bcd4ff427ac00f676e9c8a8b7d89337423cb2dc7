@@ -1,0 +1,11 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(şšãÎøÿÿÿÿ8«“™Ç2
+X	java:S125	"<This block of commented-out lines of code should be removed.(ÿšæ™8¬“™Ç2
+]	java:S125"<This block of commented-out lines of code should be removed.(ëñÅùÿÿÿÿ8­“™Ç2
+G	java:S106"+Replace this use of System.out by a logger.(şÛ“î8­“™Ç2
+L	java:S106"+Replace this use of System.out by a logger.(‹²¢çûÿÿÿÿ8®“™Ç2
+L	java:S106"+Replace this use of System.out by a logger.(ä±¢’ûÿÿÿÿ8®“™Ç2
+G	java:S106"+Replace this use of System.out by a logger.(Â˜ò³8®“™Ç2
+F	java:S106"+Replace this use of System.out by a logger.(ø†° 8¯“™Ç2
+Y
+java:S1128"=Remove this unused import 'java.util.InputMismatchException'.(İ§18†Ûî¦É2

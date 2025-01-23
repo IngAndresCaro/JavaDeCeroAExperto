@@ -1,0 +1,10 @@
+
+d
+java:S1643"Use a StringBuilder instead.(ÁØö¶ıÿÿÿÿ8ıóÜÕÈ2J$c4bce926-076e-4c68-bbc4-1d3279687302
+y
+java:S1854"6Remove this useless assignment to local variable "sb".(ë³8‰ôÜÕÈ2J$a8a8285a-2554-42da-b25c-8e73b0372e52
+j
+java:S1481"'Remove this unused "sb" local variable.(ë³8ôÜÕÈ2J$685b0798-6aff-4787-a3f7-b9b490e6ee1e
+r	java:S106"+Replace this use of System.out by a logger.(…ãŒ§úÿÿÿÿ8–‚ÖÕÈ2J$0e3e3913-d9f4-4d5a-b0f8-c7e7e8bdef50
+m	java:S106"+Replace this use of System.out by a logger.(²Ú8˜šŞÕÈ2J$e77a9153-7efa-42a4-a113-adcefe68dbc7
+~	java:S125"<This block of commented-out lines of code should be removed.(™­ù8™šŞÕÈ2J$c1b2ab9e-a4af-4055-b091-94858f2af287

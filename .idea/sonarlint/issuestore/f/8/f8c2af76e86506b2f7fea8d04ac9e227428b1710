@@ -1,0 +1,6 @@
+
+“
+java:S1192"KDefine a constant instead of duplicating this literal "archivo = " 3 times.(Ô¹ş¸ÿÿÿÿÿ8âıäÿÈ2J$8f55a6ff-f3c3-4d10-8d4c-c8d9e87bfb45
+r	java:S106"+Replace this use of System.out by a logger.(Ô¹ş¸ÿÿÿÿÿ8‹­ãÿÈ2J$db0bc195-e50c-4415-b6fd-946c8f01e523
+r	java:S106"+Replace this use of System.out by a logger.(”¸“şûÿÿÿÿ8­ãÿÈ2J$78a12893-1c71-42b9-8eaa-af8fc7caef73
+m	java:S106"+Replace this use of System.out by a logger.(ˆ„Ì”8îıäÿÈ2J$83e87866-ea99-4e8a-b600-c9f735e81956
