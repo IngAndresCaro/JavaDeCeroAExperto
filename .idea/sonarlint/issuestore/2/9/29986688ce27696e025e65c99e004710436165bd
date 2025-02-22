@@ -1,0 +1,58 @@
+
+«
+java:S1192"cDefine a constant instead of duplicating this literal "VocÃª nÃ£o pode financiar o carro!" 3 times.(ä¶”ôúÿÿÿÿ8âğ«–Í2J$01836316-1f17-4475-9d5a-49600fad2dd0
+¦
+java:S1192"^Define a constant instead of duplicating this literal "VocÃª pode financiar o carro!" 3 times.(‚©×¯üÿÿÿÿ8ãğ«–Í2J$96907a0b-3831-49f0-acae-16a1d773b417
+y
+java:S2589&"7Remove this expression which always evaluates to "true"(øÀ78û¼¾–Í2J$414c0f15-1969-4cb5-b294-1564764269a4
+y
+java:S2589&"7Remove this expression which always evaluates to "true"(øÀ78ú¼¾–Í2J$28a39da7-0bb8-4c2a-a3db-bac5327769b9
+
+java:S2589#"7Remove this expression which always evaluates to "true"(ã½¯Èøÿÿÿÿ8Œîµ–Í2J$22c54dbd-215d-4569-8a3a-79fe210b6c92
+z
+java:S2589)"7Remove this expression which always evaluates to "true"(ÀàÕ8ÿ­´–Í2J$5a9b0192-31d8-48ec-8045-a110713cd64a
+
+java:S2589 "7Remove this expression which always evaluates to "true"(’ªÒüÿÿÿÿ8Ö³¶–Í2J$71f4bbea-7312-4e31-8b0f-859e2cf98211
+
+java:S2589#"7Remove this expression which always evaluates to "true"(ã½¯Èøÿÿÿÿ8¤‰¾–Í2J$32bd3ed1-6200-4245-ba14-4f7b96cb1907
+z
+java:S2589)"7Remove this expression which always evaluates to "true"(ÀàÕ8Ã°½–Í2J$1e4890cd-7b81-4769-94df-f142acfa7376
+{
+java:S2589)"8Remove this expression which always evaluates to "false"(ÀàÕ8ú¼¾–Í2J$8c860c34-3cc7-4829-a53b-78bc64cff90e
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8ïš¸–Í2J$335187d7-5dd5-49bd-a0d3-a42fe206653d
+r	java:S106"+Replace this use of System.out by a logger.(‚©×¯üÿÿÿÿ8ƒñ«–Í2J$9ba61e83-dbd6-426e-9b9c-9f8b58cad938
+r	java:S106"+Replace this use of System.out by a logger.(ä¶”ôúÿÿÿÿ8ƒñ«–Í2J$26ea4c96-2039-466c-8511-9c03d1de466c
+r	java:S106"+Replace this use of System.out by a logger.(‚©×¯üÿÿÿÿ8„ñ«–Í2J$85b57f94-bc2d-47f6-b798-6b8e0235439c
+r	java:S106"+Replace this use of System.out by a logger.(ä¶”ôúÿÿÿÿ8„ñ«–Í2J$2ae28d69-f5b0-4487-8adc-21129ecc5164
+r	java:S106"+Replace this use of System.out by a logger.(‚©×¯üÿÿÿÿ8…ñ«–Í2J$e4e0e04c-3579-49ed-92f6-fcf471d85edb
+r	java:S106"+Replace this use of System.out by a logger.(ä¶”ôúÿÿÿÿ8…ñ«–Í2J$f44e6de5-67ee-4477-b684-2a538d07e585
+r	java:S106"+Replace this use of System.out by a logger.(—üâşÿÿÿÿ8ªƒ®–Í2J$782e2368-79f0-432c-8f06-92e0cbaeb20f
+o
+java:S1125 "'Remove the unnecessary boolean literal.(’ªÒüÿÿÿÿ8Š®´–Í2J$80e209e4-b52d-4581-bcc1-67d96be0e10d
+p
+java:S1125 "(Remove the unnecessary boolean literals.(’ªÒüÿÿÿÿ8‹®´–Í2J$d10fac96-9925-4b55-9483-fb29f02b9fb0
+r	java:S106!"+Replace this use of System.out by a logger.(òèŞûùÿÿÿÿ8Œ®´–Í2J$d34dfea1-089d-4a10-bb39-8b60ff1d2a43
+o
+java:S1125#"'Remove the unnecessary boolean literal.(ã½¯Èøÿÿÿÿ8–îµ–Í2J$8505db3a-e5e7-47e9-8053-95318d393ac8
+p
+java:S1125#"(Remove the unnecessary boolean literals.(ã½¯Èøÿÿÿÿ8–îµ–Í2J$21d82d94-1a54-46ee-a9a8-7824dee1be5d
+“
+java:S1764#"KCorrect one of the identical sub-expressions on both sides of operator "||"(ã½¯Èøÿÿÿÿ8ƒ´¶–Í2J$366102b3-dd0f-4ec3-af61-3b5fd826cea3
+m	java:S106$"+Replace this use of System.out by a logger.(®¾ÕÑ8—îµ–Í2J$9a300ee8-c352-4ba7-91d1-016c52ccad04
+i
+java:S1125&"'Remove the unnecessary boolean literal.(øÀ78€›¸–Í2J$7a669dc2-4708-494d-b225-f5932ef24de6
+i
+java:S1125&"'Remove the unnecessary boolean literal.(øÀ78ÿš¸–Í2J$36c96c4a-05ca-48d8-ad7c-8283905a1c90
+j
+java:S1125&"(Remove the unnecessary boolean literals.(øÀ78§Õº–Í2J$5b5055bb-6d1c-47b7-adda-9616cc02614b
+
+java:S1764&"KCorrect one of the identical sub-expressions on both sides of operator "&&"(øÀ78å…º–Í2J$b1942a59-bccc-4628-9bf6-5de241a107aa
+m	java:S106'"+Replace this use of System.out by a logger.(û©ˆÏ8®»–Í2J$56abb517-9669-45a4-afe6-1256f2bdcdfc
+j
+java:S1125)"'Remove the unnecessary boolean literal.(ÀàÕ8Ñ°½–Í2J$4f32dc42-f6ba-45aa-ba26-5471f7451773
+j
+java:S1125)"'Remove the unnecessary boolean literal.(ÀàÕ8½¾–Í2J$b3ddbd79-19c0-48ab-8347-3bab8eaf5ea3
+k
+java:S1125)"(Remove the unnecessary boolean literals.(ÀàÕ8½¾–Í2J$f2822819-ff9f-4093-bb2f-9b3808bacd03
+r	java:S106*"+Replace this use of System.out by a logger.(ÚúÂÀÿÿÿÿÿ8Ò°½–Í2J$7812086a-9ba6-4ba4-8f41-fc80e7180e5a
