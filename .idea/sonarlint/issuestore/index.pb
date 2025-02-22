@@ -37,3 +37,29 @@ T
 $src/EjemploStringMetodosArreglo.java,6\1\61bafaa0f0b05c683aed2e455fcd99c2b8e7ae10
 P
  src/ProgramaManejoDeNombres.java,f\a\fae115405612850ec3dd472fb47ec82673a83f28
+M
+src/OperadoresAsignacion.java,3\7\377b88c28382c84e8f83779fcff877f83be4d84f
+N
+src/OperadoresAritmeticos.java,c\b\cb635fc45447e7240bc568070779be0bf4dda891
+J
+src/OperadoresUnarios.java,5\6\5648aa864a2e441b8b7fc1c4eae855e37e15d405
+P
+ src/OperadoresIncrementales.java,c\c\cc14580e6079f4cb110492a8ebe21e4046109c98
+O
+src/OperadoresRelacionales.java,0\0\004dd704de64ac84b09f3b56715a77a5232df2a9
+J
+src/OperadoresLogicos.java,2\9\29986688ce27696e025e65c99e004710436165bd
+O
+src/OperadoresLogicosLogin.java,b\c\bcca380bb151481643dd43d09d6c6152f717c1d2
+I
+src/OperadorTernario.java,d\5\d5fc9ca59e5391e18a74dd389afdc86660a9c4f0
+Z
+*src/OperadoresLogicosLoginConTernario.java,d\6\d6eabf3e849b3c7ea253934f4f571953def93767
+T
+$src/OperadorTernarioNumeroMayor.java,5\1\51e2390c1cccba681c973ca3139dedbf6237c541
+K
+src/OperadorInstanceOf.java,e\6\e6198cc9896c198aaf4b74b48b2295725faba49e
+Y
+)src/OperadorInstanceOfTiposGenericos.java,a\4\a43398d1a08f61da6f098a02b034b2e586e858ec
+N
+src/OperadoresPrecedencia.java,1\d\1d08d91bf7a4f756d93aac343792d831dffc9b19
