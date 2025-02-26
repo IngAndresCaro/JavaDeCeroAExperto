@@ -1,14 +1,0 @@
-
-–
-java:S1192"SDefine a constant instead of duplicating this literal "ProgramaciÃ³n Java" 3 times.(ÉÏáÇ8•ƒÄ­È2J$26704178-37ea-41c3-bdfd-e8b1eb892b8f
-„
-java:S4973"<Strings and Boxed types should be compared using "equals()".(›ü‚”ıÿÿÿÿ8 ãÀ­È2J$a1e8ecc0-67e0-4152-887e-df06704e40a4
-~
-java:S4973"<Strings and Boxed types should be compared using "equals()".(¯ĞÓg8š¶Ä­È2J$b3b15d7b-6243-4a89-81e7-7f96007c2bbc
-c
-java:S2129" Remove this "String" constructor(ñšÈŒ8¯ãÀ­È2J$60acb13b-2681-4dd9-8f26-91c4f3f16143
-m	java:S106"+Replace this use of System.out by a logger.(×òş•8±ãÀ­È2J$a2b9d058-7883-48db-aec0-ac1e66de1fec
-r	java:S106
-"+Replace this use of System.out by a logger.(Àµ¦Ùıÿÿÿÿ8³ãÀ­È2J$3f27f6da-60f8-484d-b307-63a2bb47e303
-r	java:S106"+Replace this use of System.out by a logger.(‘ù¾Şùÿÿÿÿ8³ãÀ­È2J$bd11199e-175f-4b68-89dc-5addd57e7853
-r	java:S106"+Replace this use of System.out by a logger.(ï»²ôüÿÿÿÿ8†ÚÄ­È2J$2a89eb87-8034-4cdf-94bf-4a7a58319aec

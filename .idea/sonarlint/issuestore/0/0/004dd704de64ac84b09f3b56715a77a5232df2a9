@@ -1,17 +1,0 @@
-
-m	java:S106
-"+Replace this use of System.out by a logger.(ûê¼›8ÑŠ Ë2J$80f0579c-6ea7-468a-8bbb-9e0b01bba0a6
-m	java:S106"+Replace this use of System.out by a logger.(“®¹ï8ÑŠ Ë2J$82f712fc-05a4-4c60-affc-718ae5164e93
-r	java:S106"+Replace this use of System.out by a logger.(ìàÊÁıÿÿÿÿ8ÑŠ Ë2J$e1ac9f44-97bf-40f1-8fe6-373c63c67bf0
-m	java:S106"+Replace this use of System.out by a logger.(†Çøô8‘ÑŠ Ë2J$95faa8ae-f072-4969-bd98-cc8197cb4866
-m	java:S106"+Replace this use of System.out by a logger.(¼Ê¬¼8‘ÑŠ Ë2J$e3b17269-5f87-472f-b28e-c51e6acb5975
-j
-java:S1125"'Remove the unnecessary boolean literal.(±§¤ö8“ÑŠ Ë2J$c269fd14-8d4e-4cfa-af1e-18d3165be6bb
-m	java:S106"+Replace this use of System.out by a logger.(ïËÎ8”ÑŠ Ë2J$b736f65c-4e7a-4481-9a55-0e68cf1f9f84
-j
-java:S1125"'Remove the unnecessary boolean literal.(ğ¨ÁÀ8İÉ‹ Ë2J$9fd2edd8-578d-4d70-91ac-7c3a98dd01a8
-m	java:S106"+Replace this use of System.out by a logger.(±Èçè8½’Œ Ë2J$5452f77e-e23d-4269-9665-7e1d2cd335b5
-m	java:S106"+Replace this use of System.out by a logger.(³Á—Ÿ8ìõŒ Ë2J$ffc459e8-a206-4841-99b8-b42a38d1d739
-r	java:S106""+Replace this use of System.out by a logger.(ĞËç°ûÿÿÿÿ8¼¦ Ë2J$4b489169-4eca-46cb-be26-d7c5a0bfe3ff
-r	java:S106%"+Replace this use of System.out by a logger.(¦ıŸÂÿÿÿÿÿ8•’ Ë2J$2ce4a204-c952-457e-a2af-0a1321d24e3e
-m	java:S106("+Replace this use of System.out by a logger.(Ö½ÎÚ8­È’ Ë2J$14ae223d-af32-4782-9ff2-f466d3a770cd

@@ -1,7 +1,0 @@
-
-r	java:S106
-"+Replace this use of System.out by a logger.(ÿ×ŒÃşÿÿÿÿ8¾²ÜÏ2J$b9d579b8-f505-48bd-93eb-6f2c3f1eb80b
-r	java:S106"+Replace this use of System.out by a logger.(³Ş©¨ÿÿÿÿÿ8Á²ÜÏ2J$a2730ddb-f1fb-4e99-b897-6113577a0d9c
-j
-java:S1125"'Remove the unnecessary boolean literal.(»ıî8Õ²ÜÏ2J$ed10b117-2a6a-4980-bc65-ca8fb537bd03
-r	java:S106"+Replace this use of System.out by a logger.(­ñüòûÿÿÿÿ8Ú²ÜÏ2J$c2b8f5d6-14f2-489f-8c83-419914d23330
