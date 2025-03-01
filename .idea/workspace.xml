@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1953267d-3f78-4b51-a546-cf7069b3f625" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SentenciaForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SentenciaWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SentenciaBubleEtiquetasBuscar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SentenciasBucleEtiquetas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2tgpGnU3SsRqaHgE2gBPkg7LVNn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,8 +35,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.EjemploString.executor": "Run",
+    "Application.SentenciaBubleEtiquetasBuscar.executor": "Run",
     "Application.SentenciaForEach.executor": "Run",
     "Application.SentenciaWhile.executor": "Run",
+    "Application.SentenciasBucleEtiquetas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -44,9 +46,21 @@
     "last_opened_file_path": "E:/Programación/Aprendizaje/01. ExpertoJava/JavaDeCeroAExperto"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SentenciaForEach">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SentenciaBubleEtiquetasBuscar">
     <configuration name="EjemploString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemploString" />
+      <module name="JavaDeCeroAExperto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SentenciaBubleEtiquetasBuscar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SentenciaBubleEtiquetasBuscar" />
       <module name="JavaDeCeroAExperto" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,8 +80,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SentenciasBucleEtiquetas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SentenciasBucleEtiquetas" />
+      <module name="JavaDeCeroAExperto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SentenciaBubleEtiquetasBuscar" />
+        <item itemvalue="Application.SentenciasBucleEtiquetas" />
         <item itemvalue="Application.SentenciaForEach" />
         <item itemvalue="Application.SentenciaWhile" />
         <item itemvalue="Application.EjemploString" />
