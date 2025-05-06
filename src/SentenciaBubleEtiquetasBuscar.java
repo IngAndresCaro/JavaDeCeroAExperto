@@ -1,6 +1,6 @@
 public class SentenciaBubleEtiquetasBuscar {
     public static void main(String[] args) {
-        String frase = "tres tristes tigres tragan trigo en un trigal trigotrigo";
+        String frase = "tres tristes tigres tragan trigo en un trigal trigotrigogit";
         String palabra = "trigo";
 
         int maxPalabra = palabra.length();
