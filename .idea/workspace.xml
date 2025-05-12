@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1953267d-3f78-4b51-a546-cf7069b3f625" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SentenciasBucleEtiquetasBuscar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SentenciaTaller1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SentenciaTaller2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SentenciaTaller3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SentenciaTaller4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +31,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -42,6 +47,10 @@
     "Application.EjemploString.executor": "Run",
     "Application.SentenciaBubleEtiquetasBuscar.executor": "Run",
     "Application.SentenciaForEach.executor": "Run",
+    "Application.SentenciaTaller1.executor": "Run",
+    "Application.SentenciaTaller2.executor": "Run",
+    "Application.SentenciaTaller3.executor": "Run",
+    "Application.SentenciaTaller4.executor": "Run",
     "Application.SentenciaWhile.executor": "Run",
     "Application.SentenciasBucleEtiquetas.executor": "Run",
     "Application.SentenciasBucleEtiquetasBuscar.executor": "Run",
@@ -57,23 +66,30 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SentenciasBucleEtiquetasBuscar">
-    <configuration name="SentenciaBubleEtiquetasBuscar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SentenciaBubleEtiquetasBuscar" />
+  <component name="RunManager" selected="Application.SentenciaTaller4">
+    <configuration name="SentenciaTaller1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SentenciaTaller1" />
       <module name="JavaDeCeroAExperto" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SentenciaForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SentenciaForEach" />
+    <configuration name="SentenciaTaller2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SentenciaTaller2" />
       <module name="JavaDeCeroAExperto" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SentenciaWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SentenciaWhile" />
+    <configuration name="SentenciaTaller3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SentenciaTaller3" />
+      <module name="JavaDeCeroAExperto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SentenciaTaller4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SentenciaTaller4" />
       <module name="JavaDeCeroAExperto" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,20 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SentenciasBucleEtiquetasBuscar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SentenciasBucleEtiquetasBuscar" />
-      <module name="JavaDeCeroAExperto" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SentenciasBucleEtiquetasBuscar" />
-        <item itemvalue="Application.SentenciaBubleEtiquetasBuscar" />
+        <item itemvalue="Application.SentenciaTaller4" />
+        <item itemvalue="Application.SentenciaTaller3" />
+        <item itemvalue="Application.SentenciaTaller2" />
+        <item itemvalue="Application.SentenciaTaller1" />
         <item itemvalue="Application.SentenciasBucleEtiquetas" />
-        <item itemvalue="Application.SentenciaForEach" />
-        <item itemvalue="Application.SentenciaWhile" />
       </list>
     </recent_temporary>
   </component>
