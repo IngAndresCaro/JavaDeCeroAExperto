@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1953267d-3f78-4b51-a546-cf7069b3f625" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SentenciaTaller1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SentenciaTaller2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SentenciaTaller3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SentenciaTaller4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AutoboxingInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMetodoGetClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PasarPorReferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PasarPorReferencia2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PasarPorValor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrapperBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrapperInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrapperOperadoresRelacionales.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +48,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AutoboxingInteger.executor": "Run",
+    "Application.EjemploMetodoGetClass.executor": "Run",
     "Application.EjemploString.executor": "Run",
+    "Application.PasarPorReferencia.executor": "Run",
+    "Application.PasarPorReferencia2.executor": "Run",
+    "Application.PasarPorValor.executor": "Run",
     "Application.SentenciaBubleEtiquetasBuscar.executor": "Run",
     "Application.SentenciaForEach.executor": "Run",
     "Application.SentenciaTaller1.executor": "Run",
@@ -54,6 +63,9 @@
     "Application.SentenciaWhile.executor": "Run",
     "Application.SentenciasBucleEtiquetas.executor": "Run",
     "Application.SentenciasBucleEtiquetasBuscar.executor": "Run",
+    "Application.WrapperBoolean.executor": "Run",
+    "Application.WrapperInteger.executor": "Run",
+    "Application.WrapperOperadoresRelacionales.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -66,37 +78,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SentenciaTaller4">
-    <configuration name="SentenciaTaller1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SentenciaTaller1" />
+  <component name="RunManager" selected="Application.PasarPorReferencia2">
+    <configuration name="EjemploMetodoGetClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMetodoGetClass" />
       <module name="JavaDeCeroAExperto" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SentenciaTaller2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SentenciaTaller2" />
+    <configuration name="PasarPorReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasarPorReferencia" />
       <module name="JavaDeCeroAExperto" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SentenciaTaller3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SentenciaTaller3" />
+    <configuration name="PasarPorReferencia2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasarPorReferencia2" />
       <module name="JavaDeCeroAExperto" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SentenciaTaller4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SentenciaTaller4" />
+    <configuration name="PasarPorValor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasarPorValor" />
       <module name="JavaDeCeroAExperto" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SentenciasBucleEtiquetas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SentenciasBucleEtiquetas" />
+    <configuration name="WrapperBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WrapperBoolean" />
       <module name="JavaDeCeroAExperto" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SentenciaTaller4" />
-        <item itemvalue="Application.SentenciaTaller3" />
-        <item itemvalue="Application.SentenciaTaller2" />
-        <item itemvalue="Application.SentenciaTaller1" />
-        <item itemvalue="Application.SentenciasBucleEtiquetas" />
+        <item itemvalue="Application.PasarPorReferencia2" />
+        <item itemvalue="Application.PasarPorReferencia" />
+        <item itemvalue="Application.PasarPorValor" />
+        <item itemvalue="Application.EjemploMetodoGetClass" />
+        <item itemvalue="Application.WrapperBoolean" />
       </list>
     </recent_temporary>
   </component>
