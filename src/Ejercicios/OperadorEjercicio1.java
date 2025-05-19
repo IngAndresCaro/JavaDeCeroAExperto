@@ -1,3 +1,5 @@
+package Ejercicios;
+
 import javax.swing.*;
 
 public class OperadorEjercicio1 {

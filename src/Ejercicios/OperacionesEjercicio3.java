@@ -1,7 +1,9 @@
+package Ejercicios;
+
 import javax.swing.*;
 
 /**
- * OperacionesEjercicio3
+ * Ejercicios.OperacionesEjercicio3
  */
 public class OperacionesEjercicio3 {
     public static void main(String[] args) {

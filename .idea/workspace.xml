@@ -5,15 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1953267d-3f78-4b51-a546-cf7069b3f625" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AutoboxingInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploMetodoGetClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PasarPorReferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PasarPorReferencia2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PasarPorValor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WrapperBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WrapperInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WrapperOperadoresRelacionales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploJavaUtilCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploJavaUtilDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploJavaUtilDateParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Tarea01Edades.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperacionesEjercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/OperacionesEjercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadorEjercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/OperadorEjercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadorEjercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/OperadorEjercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SentenciaTaller1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/SentenciaTaller1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SentenciaTaller2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/SentenciaTaller2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SentenciaTaller3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/SentenciaTaller3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SentenciaTaller4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/SentenciaTaller4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +53,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AutoboxingInteger.executor": "Run",
+    "Application.EjemploJavaUtilCalendar.executor": "Run",
+    "Application.EjemploJavaUtilDate.executor": "Run",
+    "Application.EjemploJavaUtilDateParse.executor": "Run",
     "Application.EjemploMetodoGetClass.executor": "Run",
     "Application.EjemploString.executor": "Run",
     "Application.PasarPorReferencia.executor": "Run",
@@ -63,11 +70,13 @@
     "Application.SentenciaWhile.executor": "Run",
     "Application.SentenciasBucleEtiquetas.executor": "Run",
     "Application.SentenciasBucleEtiquetasBuscar.executor": "Run",
+    "Application.Tarea01Edades.executor": "Run",
     "Application.WrapperBoolean.executor": "Run",
     "Application.WrapperInteger.executor": "Run",
     "Application.WrapperOperadoresRelacionales.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/Programación/Aprendizaje/01. ExpertoJava/JavaDeCeroAExperto"
@@ -78,16 +87,23 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PasarPorReferencia2">
-    <configuration name="EjemploMetodoGetClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploMetodoGetClass" />
+  <component name="RunManager" selected="Application.Tarea01Edades">
+    <configuration name="EjemploJavaUtilCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploJavaUtilCalendar" />
       <module name="JavaDeCeroAExperto" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasarPorReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PasarPorReferencia" />
+    <configuration name="EjemploJavaUtilDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploJavaUtilDate" />
+      <module name="JavaDeCeroAExperto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploJavaUtilDateParse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploJavaUtilDateParse" />
       <module name="JavaDeCeroAExperto" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,27 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasarPorValor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PasarPorValor" />
+    <configuration name="Tarea01Edades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.Tarea01Edades" />
       <module name="JavaDeCeroAExperto" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WrapperBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WrapperBoolean" />
-      <module name="JavaDeCeroAExperto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tarea01Edades" />
+        <item itemvalue="Application.EjemploJavaUtilCalendar" />
+        <item itemvalue="Application.EjemploJavaUtilDateParse" />
+        <item itemvalue="Application.EjemploJavaUtilDate" />
         <item itemvalue="Application.PasarPorReferencia2" />
-        <item itemvalue="Application.PasarPorReferencia" />
-        <item itemvalue="Application.PasarPorValor" />
-        <item itemvalue="Application.EjemploMetodoGetClass" />
-        <item itemvalue="Application.WrapperBoolean" />
       </list>
     </recent_temporary>
   </component>
@@ -134,5 +149,31 @@
       <updated>1740783478349</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EjemploJavaUtilCalendar.java</url>
+          <line>5</line>
+          <properties class="EjemploJavaUtilCalendar" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
