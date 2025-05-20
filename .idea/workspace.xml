@@ -5,19 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1953267d-3f78-4b51-a546-cf7069b3f625" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploJavaUtilCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploJavaUtilDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploJavaUtilDateParse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/Tarea01Edades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploAsignarPropiedadesDeSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploEjecutarProgramaSO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploPropiedadesDeSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploVariablesDeEntorno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperacionesEjercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/OperacionesEjercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperadorEjercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/OperadorEjercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperadorEjercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/OperadorEjercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SentenciaTaller1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/SentenciaTaller1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SentenciaTaller2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/SentenciaTaller2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SentenciaTaller3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/SentenciaTaller3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SentenciaTaller4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/SentenciaTaller4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploJavaUtilCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/EjemploJavaUtilCalendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploJavaUtilDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/EjemploJavaUtilDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploJavaUtilDateParse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/EjemploJavaUtilDateParse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploMetodoGetClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/EjemploMetodoGetClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/EjemploString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploStringConcatenacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/EjemploStringConcatenacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploStringExtensionArchivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/EjemploStringExtensionArchivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploStringInmutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/EjemploStringInmutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploStringMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/EjemploStringMetodos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploStringMetodosArreglo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/EjemploStringMetodosArreglo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploStringTestRendimientoConcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/EjemploStringTestRendimientoConcat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploStringValidar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejemplos/EjemploStringValidar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadorInstanceOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorInstanceOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadorInstanceOfTiposGenericos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorInstanceOfTiposGenericos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadorTernario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorTernario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadorTernarioNumeroMayor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadorTernarioNumeroMayor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresAritmeticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresAritmeticos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresAsignacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresAsignacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresIncrementales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresIncrementales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresLogicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresLogicosLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogicosLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresLogicosLoginConTernario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogicosLoginConTernario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresPrecedencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresPrecedencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresRelacionales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresRelacionales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresUnarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresUnarios.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +71,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AutoboxingInteger.executor": "Run",
+    "Application.EjemploAsignarPropiedadesDeSistema.executor": "Run",
+    "Application.EjemploEjecutarProgramaSO.executor": "Run",
     "Application.EjemploJavaUtilCalendar.executor": "Run",
     "Application.EjemploJavaUtilDate.executor": "Run",
     "Application.EjemploJavaUtilDateParse.executor": "Run",
     "Application.EjemploMetodoGetClass.executor": "Run",
+    "Application.EjemploPropiedadesDeSistema.executor": "Run",
     "Application.EjemploString.executor": "Run",
+    "Application.EjemploVariablesDeEntorno.executor": "Run",
     "Application.PasarPorReferencia.executor": "Run",
     "Application.PasarPorReferencia2.executor": "Run",
     "Application.PasarPorValor.executor": "Run",
@@ -83,45 +105,34 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\usuario\Programación\Andres Caro\05. Java Master\02.JavaCeroAExperto\JavaCeroAExperto\src\Config" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tarea01Edades">
-    <configuration name="EjemploJavaUtilCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploJavaUtilCalendar" />
+  <component name="RunManager" selected="Application.EjemploEjecutarProgramaSO">
+    <configuration name="EjemploAsignarPropiedadesDeSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploAsignarPropiedadesDeSistema" />
       <module name="JavaDeCeroAExperto" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploJavaUtilDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploJavaUtilDate" />
+    <configuration name="EjemploEjecutarProgramaSO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploEjecutarProgramaSO" />
       <module name="JavaDeCeroAExperto" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="EjemploJavaUtilDateParse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploJavaUtilDateParse" />
-      <module name="JavaDeCeroAExperto" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PasarPorReferencia2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PasarPorReferencia2" />
-      <module name="JavaDeCeroAExperto" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tarea01Edades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios.Tarea01Edades" />
+      <option name="MAIN_CLASS_NAME" value="Ejemplos.EjemploJavaUtilDateParse" />
       <module name="JavaDeCeroAExperto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicios.*" />
+          <option name="PATTERN" value="Ejemplos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +140,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EjemploPropiedadesDeSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploPropiedadesDeSistema" />
+      <module name="JavaDeCeroAExperto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploVariablesDeEntorno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploVariablesDeEntorno" />
+      <module name="JavaDeCeroAExperto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tarea01Edades" />
-        <item itemvalue="Application.EjemploJavaUtilCalendar" />
+        <item itemvalue="Application.EjemploEjecutarProgramaSO" />
         <item itemvalue="Application.EjemploJavaUtilDateParse" />
-        <item itemvalue="Application.EjemploJavaUtilDate" />
-        <item itemvalue="Application.PasarPorReferencia2" />
+        <item itemvalue="Application.EjemploAsignarPropiedadesDeSistema" />
+        <item itemvalue="Application.EjemploVariablesDeEntorno" />
+        <item itemvalue="Application.EjemploPropiedadesDeSistema" />
       </list>
     </recent_temporary>
   </component>
@@ -165,9 +190,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/EjemploJavaUtilCalendar.java</url>
+          <url>file://$PROJECT_DIR$/src/Ejemplos/EjemploJavaUtilCalendar.java</url>
           <line>5</line>
-          <properties class="EjemploJavaUtilCalendar" method="main">
+          <properties class="Ejemplos.EjemploJavaUtilCalendar">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

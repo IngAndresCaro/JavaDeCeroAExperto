@@ -1,3 +1,5 @@
+package Ejemplos;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -33,7 +35,11 @@ public class EjemploJavaUtilDateParse {
                 System.out.println("Fecha ingresada es igual a la fecha actual");
             }
         } catch (ParseException e) {
-            throw new RuntimeException(e);
+            //throw new RuntimeException(e);
+            System.err.println("Error al parsear la fecha: " + e.getMessage());
+            System.err.println("El formato debe ser 'yyyy-MM-dd'");
+            //System.exit(1);
+            main(args);
         }
 
     }

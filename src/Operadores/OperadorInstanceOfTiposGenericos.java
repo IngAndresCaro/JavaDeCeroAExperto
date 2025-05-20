@@ -1,3 +1,5 @@
+package Operadores;
+
 public class OperadorInstanceOfTiposGenericos {
     public static void main(String[] args) {
         Object texto = "Hola Mundo";

@@ -1,3 +1,5 @@
+package Ejemplos;
+
 public class EjemploStringTestRendimientoConcat {
     public static void main(String[] args) {
         String a = "a";
@@ -12,10 +14,12 @@ public class EjemploStringTestRendimientoConcat {
             c += a + b + "\n"; //68ms->10000 25ms=>500 bueno para cuando son muchos datos
             //sb.append(a); sb.append(b); sb.append("\n"); //6ms->10000 0ms=>500
         }
+        System.gc(); //RECUPERA MEMORIA utilizando el garbage collector
+
         long fin = System.currentTimeMillis();
         System.out.println(fin-inicio);
         System.out.println("c = "+ c);
-        //System.out.println("sb = "+ sb.toString());
+        System.out.println("sb = "+ sb.toString());
 
 
     }

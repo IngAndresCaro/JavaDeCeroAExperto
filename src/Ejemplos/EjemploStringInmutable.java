@@ -1,3 +1,5 @@
+package Ejemplos;
+
 public class EjemploStringInmutable {
     public static void main(String[] args) {
         String curso = "Programación Java";

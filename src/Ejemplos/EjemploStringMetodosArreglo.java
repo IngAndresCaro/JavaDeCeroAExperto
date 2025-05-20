@@ -1,3 +1,5 @@
+package Ejemplos;
+
 public class EjemploStringMetodosArreglo {
     public static void main(String[] args) {
         String trabalenguas = "trabalenguas";
