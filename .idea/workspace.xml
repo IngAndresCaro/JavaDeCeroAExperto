@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1953267d-3f78-4b51-a546-cf7069b3f625" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1953267d-3f78-4b51-a546-cf7069b3f625" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,10 +74,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/usuario/Programación/Andres Caro/05. Java Master/02.JavaCeroAExperto/JavaCeroAExperto"
+    "last_opened_file_path": "E:/usuario/Programación/Andres Caro/05. Java Master/02.JavaCeroAExperto/JavaCeroAExperto/src/Arreglos"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\usuario\Programación\Andres Caro\05. Java Master\02.JavaCeroAExperto\JavaCeroAExperto\src\Arreglos" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\usuario\Programación\Andres Caro\05. Java Master\02.JavaCeroAExperto\JavaCeroAExperto\src\Argumentos" />
       <recent name="E:\usuario\Programación\Andres Caro\05. Java Master\02.JavaCeroAExperto\JavaCeroAExperto\src\Config" />
